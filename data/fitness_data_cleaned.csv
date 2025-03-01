@@ -1,0 +1,501 @@
+Exercise,Duration (min),Intensity,Age,Weight (kg),Calories Burned
+Jump Rope,15,Medium,41,60,154.29
+Jump Rope,56,High,41,62,714.24
+Cycling,87,Medium,56,79,785.49
+Swimming,89,Low,37,63,576.72
+Running,58,Low,20,82,543.54
+Walking,25,Medium,54,55,98.21
+Running,18,High,37,55,169.71
+Swimming,16,Medium,25,90,185.14
+Boxing,26,Medium,18,50,204.29
+Hiking,67,Low,24,64,392.05
+Jump Rope,68,Low,52,57,531.57
+Weight Training,80,Low,43,96,614.4
+Cycling,40,High,38,75,411.43
+Cycling,29,High,58,86,342.03
+Pilates,14,High,46,65,78.0
+Cycling,46,Low,31,79,332.25
+Running,70,High,60,50,600.0
+Cycling,17,High,27,66,153.87
+Boxing,19,Medium,22,74,220.94
+Jump Rope,67,Medium,19,87,999.26
+Walking,13,Medium,46,80,74.29
+Rowing,80,Low,50,96,789.94
+Yoga,74,Medium,48,84,355.2
+Jump Rope,54,Low,51,84,622.08
+Hiking,57,Medium,58,95,618.86
+Swimming,69,Medium,19,81,718.59
+Weight Training,41,Low,60,93,305.04
+Boxing,22,High,28,93,385.82
+Dancing,26,Medium,46,83,184.97
+Swimming,26,Low,57,51,136.39
+Weight Training,34,Medium,56,97,329.8
+Hiking,80,High,44,66,724.11
+Jump Rope,85,High,57,59,1031.66
+Hiking,78,Medium,36,82,730.97
+Jump Rope,55,Low,41,76,573.26
+Weight Training,41,High,36,93,457.56
+Swimming,86,Low,52,85,751.89
+Yoga,11,Medium,58,78,49.03
+Jump Rope,80,Medium,32,65,891.43
+Swimming,86,Medium,36,50,552.86
+Hiking,32,Medium,34,66,241.37
+Walking,28,Medium,26,70,140.0
+Running,77,Medium,58,76,836.0
+Running,28,Low,39,76,243.2
+Boxing,88,Medium,42,82,1133.94
+Yoga,21,High,35,61,87.84
+Walking,87,Low,28,94,467.31
+Hiking,22,High,57,82,247.41
+Walking,53,Low,30,98,296.8
+Rowing,46,Medium,45,94,555.94
+Dancing,43,High,28,86,380.37
+Swimming,54,Medium,48,70,486.0
+Hiking,75,Low,57,93,637.71
+Hiking,13,Medium,42,87,129.26
+Pilates,66,High,32,78,441.26
+Jump Rope,77,Medium,39,89,1174.8
+Hiking,62,Medium,58,86,609.37
+Walking,77,Medium,19,71,390.5
+Hiking,75,Low,34,74,507.43
+Weight Training,80,Medium,31,98,784.0
+Rowing,31,Medium,21,79,314.87
+Swimming,17,Low,32,61,106.66
+Walking,76,High,24,50,325.71
+Pilates,70,Medium,59,70,350.0
+Walking,52,Low,26,59,175.31
+Running,34,Medium,59,51,247.71
+Running,54,High,28,64,592.46
+Rowing,77,Medium,38,58,574.2
+Jump Rope,26,Low,35,52,185.42
+Yoga,40,Medium,47,60,137.14
+Hiking,33,Medium,40,90,339.43
+Dancing,64,High,43,65,427.89
+Walking,71,Medium,39,92,466.57
+Yoga,43,High,38,50,147.43
+Cycling,19,High,23,93,242.33
+Dancing,36,Low,58,87,214.77
+Weight Training,85,High,46,95,969.0
+Running,22,High,34,62,233.83
+Jump Rope,58,Medium,19,95,944.57
+Swimming,88,Medium,26,81,916.46
+Yoga,59,Low,18,82,221.17
+Rowing,42,High,50,96,622.08
+Walking,37,High,40,55,174.43
+Boxing,42,Low,32,65,343.2
+Swimming,37,Low,22,91,346.32
+Cycling,82,Medium,24,69,646.63
+Running,34,Low,29,94,365.26
+Hiking,52,High,21,70,499.2
+Rowing,11,Low,52,92,104.09
+Weight Training,89,Medium,36,90,801.0
+Dancing,86,Low,18,55,324.34
+Boxing,46,High,37,54,468.41
+Yoga,55,Low,35,82,206.17
+Running,35,High,55,79,474.0
+Boxing,73,Low,23,67,614.87
+Dancing,68,High,52,57,398.67
+Swimming,37,High,27,76,433.85
+Swimming,67,Low,18,72,496.18
+Running,23,High,19,58,228.69
+Rowing,59,Low,44,55,333.77
+Yoga,85,Medium,55,82,398.29
+Hiking,51,Medium,30,50,291.43
+Hiking,80,High,22,93,1020.34
+Boxing,90,Low,30,67,758.06
+Walking,26,High,24,82,182.74
+Boxing,19,Medium,50,98,292.6
+Running,86,Low,42,100,982.86
+Running,68,Medium,31,56,544.0
+Jump Rope,35,Medium,54,100,600.0
+Boxing,52,High,37,82,804.07
+Dancing,62,Low,44,91,386.88
+Yoga,33,Medium,20,92,173.49
+Swimming,69,Medium,22,70,621.0
+Weight Training,29,High,32,86,299.28
+Rowing,47,Low,42,92,444.75
+Cycling,78,High,19,63,673.92
+Cycling,11,High,48,57,85.99
+Cycling,73,High,30,50,500.57
+Hiking,61,Low,51,66,368.09
+Dancing,54,High,43,87,483.22
+Swimming,84,Medium,50,96,1036.8
+Hiking,14,Low,29,52,66.56
+Running,22,High,37,61,230.06
+Walking,30,High,48,94,241.71
+Running,79,High,24,58,785.49
+Boxing,14,Medium,19,60,132.0
+Rowing,10,High,34,78,120.34
+Jump Rope,17,Medium,46,85,247.71
+Running,36,Low,58,99,407.31
+Boxing,75,Low,40,90,848.57
+Dancing,82,High,44,93,784.39
+Cycling,32,High,59,99,434.47
+Weight Training,72,High,58,85,734.4
+Rowing,23,Low,51,58,137.21
+Running,29,Low,26,92,304.91
+Hiking,24,High,19,52,171.15
+Boxing,16,Low,27,89,179.02
+Cycling,62,Medium,40,57,403.89
+Cycling,88,High,18,67,808.59
+Pilates,26,Low,57,84,124.8
+Weight Training,78,Medium,55,90,702.0
+Rowing,86,Low,55,67,592.66
+Weight Training,76,Medium,56,80,608.0
+Boxing,78,Low,33,87,853.1
+Boxing,84,High,42,94,1488.96
+Hiking,30,High,18,77,316.8
+Rowing,25,High,43,99,381.86
+Cycling,19,High,59,53,138.1
+Cycling,14,Low,59,91,116.48
+Boxing,66,Low,21,54,448.05
+Cycling,80,Medium,59,97,886.86
+Jump Rope,83,Low,27,60,682.97
+Hiking,19,Low,30,62,107.7
+Yoga,60,Low,20,82,224.91
+Boxing,88,Low,33,61,674.83
+Pilates,46,Medium,56,64,210.29
+Swimming,37,Medium,24,76,361.54
+Running,24,Medium,41,59,202.29
+Rowing,26,Medium,47,53,177.17
+Boxing,56,High,46,81,855.36
+Hiking,78,High,19,72,770.19
+Rowing,18,Medium,24,84,194.4
+Weight Training,50,Medium,28,87,435.0
+Running,57,Low,43,100,651.43
+Cycling,66,Low,55,85,512.91
+Walking,71,Low,35,94,381.37
+Running,51,High,27,94,821.83
+Running,86,High,42,77,1135.2
+Pilates,65,Medium,19,63,292.5
+Rowing,82,Low,24,63,531.36
+Yoga,88,Low,49,51,205.17
+Pilates,71,High,39,99,602.49
+Swimming,81,Medium,39,73,760.24
+Swimming,62,High,29,61,583.51
+Yoga,15,Medium,54,78,66.86
+Boxing,51,Medium,30,54,432.77
+Walking,22,Medium,28,98,154.0
+Jump Rope,43,Medium,44,54,398.06
+Swimming,78,Medium,24,75,752.14
+Jump Rope,18,High,42,54,199.95
+Swimming,87,Medium,50,98,1096.2
+Rowing,76,High,19,79,926.33
+Walking,65,Medium,40,62,287.86
+Swimming,52,High,48,60,481.37
+Walking,40,Low,49,57,130.29
+Pilates,65,Medium,27,57,264.64
+Walking,10,Low,45,53,30.29
+Pilates,48,Low,44,74,202.97
+Hiking,64,Low,23,74,433.01
+Swimming,63,High,36,93,903.96
+Running,12,Low,22,51,69.94
+Boxing,90,High,46,72,1221.94
+Walking,12,Medium,34,83,71.14
+Jump Rope,68,High,46,98,1370.88
+Cycling,41,Medium,36,67,313.94
+Jump Rope,71,Medium,28,59,718.11
+Hiking,66,Low,51,81,488.78
+Weight Training,20,High,33,73,175.2
+Yoga,24,Medium,60,97,133.03
+Running,64,Low,42,81,592.46
+Rowing,15,Medium,46,55,106.07
+Weight Training,50,Low,39,61,244.0
+Cycling,18,Low,53,70,115.2
+Rowing,24,Low,42,95,234.51
+Running,28,Medium,31,53,212.0
+Cycling,41,Low,45,61,228.66
+Yoga,84,Low,48,86,330.24
+Swimming,89,High,33,61,837.62
+Weight Training,68,Low,39,98,533.12
+Jump Rope,81,Medium,50,84,1166.4
+Rowing,51,Low,36,64,335.73
+Yoga,76,High,21,82,427.34
+Boxing,57,Medium,43,100,895.71
+Dancing,10,High,19,80,82.29
+Weight Training,85,Medium,39,64,544.0
+Cycling,79,Low,53,61,440.59
+Swimming,53,Low,27,86,468.82
+Rowing,23,Low,24,96,227.11
+Jump Rope,64,Medium,49,74,811.89
+Hiking,13,Low,21,67,79.63
+Jump Rope,17,High,20,69,241.3
+Walking,70,Low,25,88,352.0
+Weight Training,40,Low,43,96,307.2
+Pilates,63,Low,59,65,234.0
+Jump Rope,57,Low,41,77,601.92
+Running,88,Medium,36,98,1232.0
+Yoga,84,Low,36,68,261.12
+Rowing,35,High,58,85,459.0
+Rowing,43,Low,38,54,238.83
+Weight Training,29,Medium,53,74,214.6
+Boxing,89,Medium,28,100,1398.57
+Boxing,88,High,27,89,1476.89
+Yoga,33,Low,53,70,105.6
+Weight Training,85,Low,25,75,510.0
+Swimming,72,Low,47,91,673.92
+Hiking,67,Low,44,63,385.92
+Pilates,60,Low,22,64,219.43
+Dancing,28,Low,27,93,178.56
+Cycling,64,Medium,28,88,643.66
+Cycling,25,Medium,56,90,257.14
+Swimming,87,High,25,80,1073.83
+Walking,79,Low,51,50,225.71
+Jump Rope,40,Medium,37,69,473.14
+Weight Training,37,Medium,28,95,351.5
+Hiking,30,Low,49,92,252.34
+Cycling,46,Low,57,98,412.16
+Pilates,51,Low,46,82,238.97
+Yoga,74,Low,36,53,179.29
+Jump Rope,10,Low,37,73,100.11
+Dancing,63,Medium,37,67,361.8
+Hiking,65,Low,38,65,386.29
+Jump Rope,10,Low,20,81,111.09
+Running,19,Low,36,96,208.46
+Pilates,43,Low,23,68,167.09
+Swimming,24,Medium,24,76,234.51
+Dancing,35,Low,52,82,196.8
+Weight Training,41,High,57,78,383.76
+Hiking,39,Medium,55,81,361.03
+Boxing,33,Low,39,78,323.59
+Weight Training,57,Medium,60,83,473.1
+Dancing,27,Medium,41,60,138.86
+Walking,15,Medium,56,70,75.0
+Yoga,49,High,47,71,238.56
+Dancing,56,Medium,31,69,331.2
+Running,81,Low,40,84,777.6
+Dancing,88,High,27,50,452.57
+Rowing,23,Low,41,97,229.47
+Pilates,59,High,40,50,252.86
+Yoga,43,Low,24,97,190.67
+Weight Training,78,High,39,56,524.16
+Yoga,83,High,60,62,352.87
+Pilates,62,Medium,41,96,425.14
+Weight Training,50,Low,20,81,324.0
+Swimming,42,High,19,85,550.8
+Swimming,26,High,41,96,385.1
+Weight Training,52,Low,31,56,232.96
+Swimming,29,High,29,89,398.21
+Weight Training,37,Medium,41,80,296.0
+Jump Rope,32,Medium,26,62,340.11
+Weight Training,45,High,48,69,372.6
+Running,71,High,42,98,1192.8
+Rowing,77,High,23,86,1021.68
+Dancing,62,High,51,61,389.01
+Hiking,26,Low,59,65,154.51
+Cycling,67,Medium,35,100,765.71
+Cycling,31,Low,45,82,232.41
+Dancing,74,High,43,91,692.64
+Jump Rope,83,Low,20,67,762.65
+Dancing,58,Low,40,50,198.86
+Boxing,27,High,33,67,341.13
+Swimming,15,Medium,43,90,173.57
+Running,49,High,46,79,663.6
+Walking,68,High,52,56,326.4
+Running,85,Low,34,83,806.29
+Cycling,68,Low,42,75,466.29
+Walking,51,Medium,19,51,185.79
+Boxing,30,Medium,37,54,254.57
+Pilates,37,Low,52,52,109.94
+Cycling,52,High,51,92,656.09
+Rowing,52,Medium,23,53,354.34
+Cycling,79,Medium,45,70,632.0
+Yoga,16,Low,18,54,39.5
+Hiking,65,High,31,79,704.23
+Rowing,64,Medium,34,81,666.51
+Boxing,52,Low,50,85,555.66
+Walking,30,High,56,94,241.71
+Running,56,High,38,71,681.6
+Walking,82,High,48,58,407.66
+Dancing,39,High,39,59,236.67
+Dancing,42,Low,55,75,216.0
+Walking,54,Medium,33,73,281.57
+Boxing,63,Low,57,74,586.08
+Rowing,61,Medium,40,55,431.36
+Cycling,26,Medium,18,63,187.2
+Running,56,Medium,42,66,528.0
+Cycling,17,High,44,76,177.19
+Yoga,34,Low,22,80,124.34
+Yoga,22,Low,45,92,92.53
+Yoga,14,Medium,33,71,56.8
+Boxing,17,High,42,65,208.37
+Pilates,88,Low,28,50,251.43
+Rowing,61,High,20,55,517.63
+Boxing,23,Medium,26,66,238.54
+Weight Training,46,High,31,74,408.48
+Rowing,11,Low,20,67,75.81
+Cycling,48,High,20,52,342.31
+Yoga,49,High,29,84,282.24
+Boxing,75,High,46,53,749.57
+Swimming,23,High,33,75,266.14
+Weight Training,17,Low,56,55,74.8
+Dancing,77,Low,40,67,353.76
+Rowing,67,High,52,90,930.34
+Boxing,17,Medium,36,87,232.41
+Weight Training,34,Medium,48,93,316.2
+Dancing,46,High,29,90,425.83
+Dancing,54,Medium,60,81,374.91
+Cycling,26,Low,52,100,237.71
+Yoga,21,Low,42,82,78.72
+Boxing,38,Low,58,89,425.17
+Pilates,30,Medium,56,91,195.0
+Dancing,81,High,43,67,558.21
+Walking,39,Medium,25,100,278.57
+Pilates,49,Low,60,54,151.2
+Yoga,23,Low,34,60,63.09
+Walking,33,High,28,98,277.2
+Cycling,70,Low,54,95,608.0
+Dancing,54,Low,27,97,359.18
+Rowing,68,High,24,95,996.69
+Dancing,51,Medium,29,87,380.31
+Dancing,49,High,19,82,413.28
+Boxing,22,Medium,51,72,248.91
+Boxing,78,High,50,94,1382.61
+Hiking,45,Low,39,72,296.23
+Hiking,77,Medium,53,97,853.6
+Yoga,49,Low,43,56,125.44
+Weight Training,20,Low,28,89,142.4
+Swimming,41,Low,36,56,236.16
+Dancing,23,Medium,60,64,126.17
+Dancing,36,High,40,51,188.85
+Dancing,20,Low,48,78,106.97
+Hiking,65,High,48,86,766.63
+Dancing,16,High,35,88,144.82
+Jump Rope,84,Low,41,63,725.76
+Running,33,Low,51,71,267.77
+Cycling,10,High,44,89,122.06
+Dancing,37,High,46,55,209.31
+Weight Training,72,Low,33,81,466.56
+Jump Rope,86,Medium,42,59,869.83
+Boxing,86,High,42,60,973.03
+Swimming,10,Low,45,79,81.26
+Weight Training,81,High,41,95,923.4
+Jump Rope,37,Medium,51,98,621.6
+Swimming,66,Low,39,51,346.22
+Boxing,10,Medium,23,86,135.14
+Walking,63,Medium,27,51,229.5
+Boxing,86,Medium,46,81,1094.66
+Jump Rope,73,High,25,60,901.03
+Jump Rope,89,High,38,88,1611.15
+Running,89,High,31,61,930.69
+Rowing,46,High,21,56,397.44
+Cycling,71,Low,49,66,428.43
+Running,75,Medium,20,50,535.71
+Yoga,68,Low,20,51,158.54
+Walking,22,Medium,50,72,113.14
+Hiking,90,Medium,40,60,617.14
+Dancing,86,Low,20,50,294.86
+Swimming,41,High,31,56,354.24
+Weight Training,37,High,51,66,293.04
+Jump Rope,73,Medium,42,100,1251.43
+Pilates,22,High,58,95,179.14
+Cycling,17,High,36,73,170.19
+Rowing,16,High,38,87,214.77
+Yoga,37,Low,50,50,84.57
+Hiking,44,Medium,38,68,341.94
+Jump Rope,73,Medium,56,61,763.37
+Running,69,Low,44,89,701.83
+Running,28,Medium,48,93,372.0
+Yoga,30,High,35,86,176.91
+Yoga,84,High,28,79,455.04
+Pilates,24,High,19,55,113.14
+Weight Training,76,High,23,75,684.0
+Rowing,73,Low,35,73,548.13
+Yoga,87,Medium,18,69,343.03
+Swimming,31,High,31,58,277.41
+Boxing,56,High,56,75,792.0
+Weight Training,59,Low,52,85,401.2
+Dancing,22,Medium,45,53,99.94
+Boxing,18,Medium,23,85,240.43
+Swimming,21,High,42,61,197.64
+Running,90,Medium,44,99,1272.86
+Weight Training,15,Medium,55,81,121.5
+Boxing,69,Low,42,92,798.03
+Rowing,12,Medium,18,96,148.11
+Pilates,71,Medium,19,94,476.71
+Cycling,38,Medium,56,92,399.54
+Running,39,Low,46,76,338.74
+Pilates,22,Medium,45,79,124.14
+Cycling,21,Low,57,76,145.92
+Weight Training,63,High,52,67,506.52
+Pilates,75,Low,25,91,390.0
+Boxing,57,High,21,68,730.9
+Weight Training,62,Low,38,54,267.84
+Walking,24,Low,20,70,96.0
+Walking,77,High,39,86,567.6
+Yoga,32,Medium,44,69,126.17
+Hiking,63,Medium,28,98,705.6
+Boxing,81,Medium,31,73,929.19
+Rowing,37,Low,55,97,369.15
+Weight Training,30,High,34,54,194.4
+Swimming,34,Medium,27,69,301.63
+Walking,63,Low,35,80,288.0
+Yoga,83,Low,43,98,371.84
+Rowing,66,Low,30,92,624.55
+Jump Rope,72,Low,30,51,503.59
+Yoga,44,Low,55,71,142.81
+Running,56,Low,45,79,505.6
+Dancing,46,Medium,29,69,272.06
+Hiking,64,Low,34,58,339.38
+Swimming,25,High,29,55,212.14
+Hiking,81,High,38,89,988.66
+Weight Training,40,High,24,70,336.0
+Running,32,Medium,30,83,379.43
+Hiking,18,Low,38,57,93.81
+Dancing,89,High,57,54,494.33
+Hiking,66,Medium,25,75,565.71
+Weight Training,33,Medium,53,63,207.9
+Dancing,40,High,45,97,399.09
+Pilates,37,Low,52,97,205.09
+Rowing,83,Medium,50,100,1067.14
+Pilates,20,Medium,44,97,138.57
+Swimming,40,High,52,98,604.8
+Hiking,90,High,53,84,1036.8
+Swimming,82,Medium,34,58,611.49
+Walking,44,High,21,52,196.11
+Rowing,64,High,58,81,799.82
+Dancing,60,High,39,89,549.26
+Jump Rope,81,Low,31,53,588.75
+Dancing,89,High,42,57,521.79
+Boxing,28,High,56,95,501.6
+Rowing,35,Low,30,51,183.6
+Running,61,Low,57,92,641.37
+Weight Training,72,High,44,76,656.64
+Running,51,High,60,67,585.77
+Boxing,54,Medium,26,56,475.2
+Walking,19,Low,40,71,77.09
+Swimming,59,Low,53,74,449.07
+Boxing,25,Medium,20,71,278.93
+Weight Training,56,High,29,98,658.56
+Jump Rope,68,High,54,72,1007.18
+Walking,35,Medium,52,77,192.5
+Walking,12,Low,29,52,35.66
+Boxing,71,Medium,44,61,680.59
+Yoga,18,High,54,81,99.98
+Yoga,44,Low,59,76,152.87
+Walking,14,High,40,99,118.8
+Yoga,54,Low,31,69,170.33
+Yoga,36,High,45,96,236.98
+Swimming,43,High,21,62,411.33
+Jump Rope,69,High,33,85,1206.51
+Running,56,Medium,40,67,536.0
+Running,25,High,41,63,270.0
+Rowing,21,High,19,56,181.44
+Yoga,82,Medium,41,63,295.2
+Yoga,24,Low,38,51,55.95
+Boxing,53,High,45,82,819.53
+Dancing,86,High,24,75,663.43
+Dancing,69,High,30,79,560.67
+Rowing,43,High,37,53,351.62
+Swimming,72,High,52,74,822.03
+Rowing,35,High,53,63,340.2
+Running,66,Low,50,93,701.49
+Hiking,44,Low,51,59,237.35
+Cycling,19,High,59,55,143.31
+Rowing,85,Medium,30,94,1027.29
+Swimming,67,High,26,94,971.69
+Rowing,59,Medium,22,77,584.1
+Dancing,62,High,44,78,497.42
+Dancing,20,High,23,98,201.6
+Running,78,Medium,46,96,1069.71
+Yoga,17,Low,30,51,39.63
