@@ -103,28 +103,11 @@ The trained **Random Forest model** achieved:
 
 ---
 
-## **📊 Results & Visualizations**  
-### **Exercise Type Distribution**  
-![Exercise Distribution](plots/exercise_distribution.png)  
-
-### **Calories Burned vs Duration**  
-![Calories vs Duration](plots/calories_vs_duration.png)  
-
-### **Model Performance Comparison**  
-![Model Performance](plots/model_performance_mae.png)  
-
----
-
 ## **🚀 Future Enhancements**  
 🔹 **Real-time tracking** using wearable devices (e.g., Fitbit, Apple Watch)  
 🔹 **AI-powered workout recommendations**  
 🔹 **User profile management** for personalized fitness plans  
 🔹 **Cloud storage support** to sync workout data across devices  
-
----
-
-## **👥 Contributors**  
-👤 **Udhay963** - [GitHub Profile](https://github.com/Udhay963)  
 
 ---
 
