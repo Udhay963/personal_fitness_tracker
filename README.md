@@ -4,8 +4,6 @@
 
 🔥 **Track your workouts and predict calorie burn with AI-powered insights!**  
 
-![Project Banner](plots/exercise_distribution.png)  
-
 ---
 
 ## **📖 Table of Contents**  
