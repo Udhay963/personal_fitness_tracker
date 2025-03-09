@@ -126,7 +126,7 @@ The trained **Random Forest model** achieved:
 ---
 
 ## **👥 Contributors**  
-👤 **Your Name** - [GitHub Profile](https://github.com/Udhay963)  
+👤 **Udhay963** - [GitHub Profile](https://github.com/Udhay963)  
 
 ---
 
